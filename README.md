@@ -1,2 +1,2 @@
-# LeetcodeSQL1
+# LeetcodeSQL
 I want to help people improve their sql skill
