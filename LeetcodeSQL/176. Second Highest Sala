@@ -50,3 +50,14 @@ Output:
 +---------------------+
 | null                |
 +---------------------+
+
+SQL Script:
+create table Employee
+(
+	id integer,
+	salary  integer
+);
+
+insert into Employee values (1, 100);
+insert into Employee values (2, 200);
+insert into Employee values (2, 200); 
